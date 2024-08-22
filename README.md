@@ -1,7 +1,3 @@
-# AWS Provisioning
-
-Workshop URL <br>
-https://devops-art-factory.gitbook.io/devops-workshop/
 
 ## Overview
 This repository is for those who are working as a DevOps Engineer or want to learn and apply DevOps.
